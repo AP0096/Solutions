@@ -1,3 +1,5 @@
+# deviation_grouping_upload.m
+
 In unsupervised learning, grouping 1D numerical data without knowing the number of clusters beforehand can be challenge. I made a MATLAB algorithm that addresses this by grouping data based on mathematical deviation constraints.
 
 The Process 
