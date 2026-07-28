@@ -6,7 +6,7 @@ The Process
 
 The algorithm relies on a fundamental mathematical property of deviation: if every element in a group must be within a specific limit (d/2) of the group's mean, the maximum difference between any two elements in that group cannot exceed (d).
 
-Using this, the grouping process follows a streamlined, deterministic path:
+Using this, the grouping process follows the following path:
 
 1.	The dataset is sorted in ascending order.
 2.	The algorithm iterates through the sorted array, building a contiguous block starting from the first element.
